@@ -1,8 +1,14 @@
 # -2D-Rubiks
-Rubiks cube represented as 2D manifold
+Interactive Rubiks cube represented as a 2D manifold
 
 Concepts
 
 <img width="790" height="598" alt="Rubiks Matrix Concept" src="https://github.com/user-attachments/assets/4d2c4d0a-6252-4e0d-b3fd-1ff6d247d3a6" />
 
 <img width="1873" height="963" alt="Concept 3" src="https://github.com/user-attachments/assets/e37222b8-5bcd-4472-bc35-385b04bcceb8" />
+
+
+Inspired by source: http://reddit.com/r/educationalgifs/comments/127enam/2d_representation_of_a_rubiks_cube_help/
+
+<img width="790" height="598" alt="Rubiks Matrix Concept" src="https://github.com/user-attachments/assets/838d7709-b5f7-4601-8e00-ffa73884c92f" />
+
