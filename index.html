@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>3×3 Ring Layout</title>
+  <style>
+    body {
+      background: #000000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    svg {
+      border: 1px solid #333;
+    }
+
+    circle {
+      fill: none;
+      stroke: #ffffff;
+      stroke-width: 2;
+    }
+  </style>
+</head>
+<body>
+<svg id="board" width="1920" height="1080" viewBox="0 0 1920 1080">
+
+<circle class= "Ring" cx ="850" cy="600" r="240"/>
+<circle class= "Ring" cx="1050" cy="600" r="240"/>
+<circle class= "Ring" cx="950" cy="400" r="240"/>
+
+<circle class= "Ring" cx="850" cy="600" r="200"/>
+<circle class= "Ring" cx="1050" cy="600" r="200"/>
+<circle class= "Ring" cx="950" cy="400" r="200"/>
+
+<circle class= "Ring" cx="850" cy="600" r="160"/>
+<circle class= "Ring" cx="1050" cy="600" r="160"/>
+<circle class= "Ring" cx="950" cy="400" r="160"/>
+
+</svg>
+</body>
+<script src="app.js"></script>
+</html>
