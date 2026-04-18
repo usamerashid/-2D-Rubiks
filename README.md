@@ -10,5 +10,5 @@ Concepts
 
 Inspired by source: http://reddit.com/r/educationalgifs/comments/127enam/2d_representation_of_a_rubiks_cube_help/
 
-<img width="790" height="598" alt="Rubiks Matrix Concept" src="https://github.com/user-attachments/assets/838d7709-b5f7-4601-8e00-ffa73884c92f" />
+<img width="426" height="214" alt="imq4s00bgx1a1" src="https://github.com/user-attachments/assets/b083ad62-f879-428a-9dd0-f54e0594bb0d" />
 
